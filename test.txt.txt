@@ -1,2 +1,3 @@
 gaojian
 String str = "Jack";
+String str3 = "Amy";
